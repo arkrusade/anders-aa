@@ -1,0 +1,7 @@
+.vscode/
+build/
+*.bc
+*.tar.gz
+*.swp
+*.native
+*.s
